@@ -1,33 +1,38 @@
-# Front-end Style Guide
 
-## Layout
+# Rock Paper Scissors
+you can play the game in any web browser. The three items can be clickable.
+## WebPage layout
+mobile-view: 360px;
+desktop-view:3880px;
 
-The designs were created to the following widths:
+## Color Reference
 
-- Mobile: 375px
-- Desktop: 1366px
-
-## Colors
-
-### Primary
-
-- Scissors Gradient: hsl(39, 89%, 49%) to hsl(40, 84%, 53%)
-- Paper Gradient: hsl(230, 89%, 62%) to hsl(230, 89%, 65%)
-- Rock Gradient: hsl(349, 71%, 52%) to hsl(349, 70%, 56%)
-- Lizard Gradient: hsl(261, 73%, 60%) to hsl(261, 72%, 63%)
-- Cyan: hsl(189, 59%, 53%) to hsl(189, 58%, 57%)
-
-### Neutral
-
-- Dark Text: hsl(229, 25%, 31%)
-- Score Text: hsl(229, 64%, 46%)
-- Header Outline: hsl(217, 16%, 45%)
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Dark Text Color | ![#32374E](https://via.placeholder.com/20/32374E?text=+) #32374E |
+| White Color | ![#fff](https://via.placeholder.com/20/fff?text=+) #fff |
+| Score Color | ![##2a45c2](https://via.placeholder.com/20/2a45c2?text=+) #2a45c2 |
+| Header Color | ![#565468](https://via.placeholder.com/20/565468?text=+) #565468 |
 
 ### Background
 
 - Radial Gradient: hsl(214, 47%, 23%) to hsl(237, 49%, 15%)
 
-## Fonts
 
+
+## fonts
 - Family: [Barlow Semi Condensed](https://fonts.google.com/specimen/Barlow+Semi+Condensed)
 - Weights: 600, 700
+
+## Support
+
+For support, email - heinwaiyankyaw2001@gmail.com .
+
+
+## FAQ
+
+#### Question
+ 
+ Suggest your idea for our webpage
+
+
